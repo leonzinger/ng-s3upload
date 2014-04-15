@@ -1,14 +1,6 @@
 {
     "name": "ng-s3upload",
     "version": "0.0.4",
-    "main": "build/ng-s3upload.js",
-    "dependencies": {
-        "angular": "~1.2.11",
-        "angular-sanitize": "~1.2.11"
-    },
-    "devDependencies": {
-        "angular-mocks": "latest",
-        "angular-scenario": "latest"
-    }
+    "main": "build/ng-s3upload.js"
 }
 
